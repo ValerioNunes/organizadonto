@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633345184581",
+    "firebase_url": "https://clinicaorg-c2ddd.firebaseio.com",
+    "project_id": "clinicaorg-c2ddd",
+    "storage_bucket": "clinicaorg-c2ddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633345184581:android:577be9518d5097f7",
+        "android_client_info": {
+          "package_name": "com.flv.clinica_org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633345184581-bqhhjpvl5tne5jqknlgqmp8cltl74dlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flv.clinica_org",
+            "certificate_hash": "0666e45a129c570d5f9ce2d6feab14e5eeac064c"
+          }
+        },
+        {
+          "client_id": "633345184581-7vtsqtl1garvkqp2p5hjkdkc4tv9c8qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEplwXPevz4Zjo4TxvB2WaLI7mg1u-Yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633345184581-7vtsqtl1garvkqp2p5hjkdkc4tv9c8qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
